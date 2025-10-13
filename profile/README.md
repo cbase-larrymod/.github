@@ -1,18 +1,20 @@
-# C*Base Larry Mod v3.1 Organization
+# C\*Base Larry Mod v3.1
 
-This organization hosts and maintains the **C*Base Larry Mod v3.1** and related development projects.  
-Our goal is to modernize and extend the C*Base ecosystem with structured build systems, preprocessing tools, and editor support.
+## About
+This project maintains **C\*Base Larry Mod v3.1** and related development tools. It provides a structured environment for building, testing, and extending the C\*Base BBS system.
 
-## Current Repositories
+## Repositories
 
-- **C*Base Larry Mod v3.1** – Updated source and development branch of the C*Base BBS software.  
-- **C*Base Larry Mod v3.1 Build System** – Scripts and tools for automated builds.  
-- **BPP+** – Enhanced preprocessor used for building and managing C*Base.  
-- **BPP+ Syntax Highlighter** – Syntax support for VS Code to improve readability and structure of BPP+ source files.
+- **C\*Base Larry Mod v3.1** – Source and active development branch of the C\*Base BBS software.  
+- **C\*Base Larry Mod v3.1 Build System** – Tools and scripts for automated builds and configuration.  
+- **BPP+** – Preprocessor for compiling `.bpp` source files.  
+- **BPP+ Syntax Highlighter** – Syntax highlighting and snippets for BPP+ and BASIC v2 in Visual Studio Code.
+
+## Reference
+For C\*Base documentation and technical details on Larry Mod, Tao Mod, and other C*Base versions, visit the **[C\*Base Reference Guide](https://cbasereferenceguide.github.io)**.
 
 ---
 
-This organization provides the foundation for continued development, testing, and integration of modern C*Base components and related tools.
-
-Skyhawk/Triad  
-Larry/R.O.L.E.
+Maintained by  
+- Skyhawk/Triad  
+- Larry/R.O.L.E.
