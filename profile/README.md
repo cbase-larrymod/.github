@@ -1,6 +1,4 @@
-# C\*Base Larry Mod v3.1
-
-## About
+# About
 This project maintains **C\*Base Larry Mod v3.1** and related development tools. It provides a structured environment for building, testing, and extending the C\*Base BBS system.
 
 ## Repositories
