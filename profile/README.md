@@ -13,7 +13,7 @@ This project maintains **C\*Base Larry Mod v3.1** and related development tools.
 
 ## BPP+ repositories
 
-- **[BPP+](https://github.com/cbase-larrymod/bpp-plus)** – Preprocessor for compiling `.bpp` source files.
+- **[BPP+ Preprocessor](https://github.com/cbase-larrymod/bpp-plus)** – for compiling `.bpp` source files.
 - **[BPP+ BASIC v2 Syntax Highlighter](https://github.com/cbase-larrymod/bpp-plus-syntax-highlighting)** – Syntax highlighting and snippets for BPP+ and BASIC v2 in Visual Studio Code.
 
 ## Reference
